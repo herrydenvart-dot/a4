@@ -106,7 +106,7 @@
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/comfort_lounge_cashmere_knit.jpg" alt="Master artisan examining tolerances at the Mercer Street atelier">
+          <img src="/assets/images/hero_alpaca_socks.jpg" alt="Master artisan examining tolerances at the Mercer Street atelier">
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
       <div class="grid-3">
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/knit_merino_textured_rib_cuff.jpg" alt="Knit Merino Textured Rib Cuff">
+            <img src="/assets/images/sock_collection_flatlay.jpg" alt="Sock Collection Flatlay">
             <span class="card-tag">Atelier Edition</span>
           </div>
           <div class="card-body">
@@ -176,7 +176,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/raw_botanical_fiber_harvest_lab.jpg" alt="Raw Botanical Fiber Harvest Lab">
+            <img src="/assets/images/hiking_boots_wool_socks.jpg" alt="Hiking Boots Wool Socks">
             <span class="card-tag">Heritage Reserve</span>
           </div>
           <div class="card-body">
@@ -192,7 +192,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/hero_alpaca_socks.jpg" alt="Hero Alpaca Socks">
+            <img src="/assets/images/crew_sock_boot_lifestyle.jpg" alt="Crew Sock Boot Lifestyle">
             <span class="card-tag">Classic Reserve</span>
           </div>
           <div class="card-body">
@@ -208,7 +208,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/crew_sock_boot_lifestyle.jpg" alt="Crew Sock Boot Lifestyle">
+            <img src="/assets/images/cushioned_sole_macro.jpg" alt="Cushioned Sole Macro">
             <span class="card-tag">Atelier Exclusive</span>
           </div>
           <div class="card-body">
@@ -224,7 +224,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/cushioned_sole_macro.jpg" alt="Cushioned Sole Macro">
+            <img src="/assets/images/collection_crew.jpg" alt="Collection Crew">
             <span class="card-tag">Patron Edition</span>
           </div>
           <div class="card-body">
@@ -240,7 +240,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/hiking_boots_wool_socks.jpg" alt="Hiking Boots Wool Socks">
+            <img src="/assets/images/seto_traditional_sock.jpg" alt="Seto Traditional Sock">
             <span class="card-tag">SoHo Signature</span>
           </div>
           <div class="card-body">
@@ -278,7 +278,7 @@
           <a href="/blog/material-provenance-and-fiber-crystallography.html" class="btn btn-outline btn-sm">Read Material Science Treatise</a>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/knitted_sock_texture.jpg" alt="Material inspection and quality verification at the workshop">
+          <img src="/assets/images/sock_1.jpg" alt="Material inspection and quality verification at the workshop">
         </div>
       </div>
     </div>
@@ -289,7 +289,7 @@
     <div class="container">
       <div class="grid-2">
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/seamless_toe_detail.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
+          <img src="/assets/images/sock_2.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
         </div>
         <div>
           <span class="hero-badge">Flagship Fitting Suite</span>
@@ -422,7 +422,7 @@
       <div class="grid-3">
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/sock_collection_flatlay.jpg" alt="Material Provenance and Fiber Crystallography">
+            <img src="/assets/images/sock_3.jpg" alt="Material Provenance and Fiber Crystallography">
             <span class="card-tag">Textile Science</span>
           </div>
           <div class="card-body">
@@ -434,7 +434,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/circular_knitting_loom.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
+            <img src="/assets/images/sock_4.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
             <span class="card-tag">Precision Engineering</span>
           </div>
           <div class="card-body">
@@ -446,7 +446,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_200_needle_knit.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
+            <img src="/assets/images/sock_5.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
             <span class="card-tag">Anatomical Physics</span>
           </div>
           <div class="card-body">
